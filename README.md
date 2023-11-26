@@ -1,8 +1,10 @@
 ### Hi there 👋 I am Adenike
 
-  😄 I am a Frontend developer passionate about solving problems and creating experiences.
+- 😄 I am a Frontend developer passionate about solving problems and creating experiences.
 - 🔭 I’m currently  immersed in the creation of a blog that holds the promise of being a captivating journey. Anticipate a space where knowledge meets creativity, promising to inspire readers on diverse aspects of the digital realm. Stay tuned for an enriching experience that's in the making.
+  
 - 🌱 I’m currently learning TypeScript and Node.js
+  
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of frontend development. Whether it's crafting immersive user interfaces, exploring the latest advancements in ReactJS, or contributing to impactful open-source initiatives. Let's explore opportunities that challenge our creativity, drive meaningful change, and redefine user experiences in the digital landscape.
 - 💬 I am always learning new things. 
 - 📫 How to reach me: adeofeadenike@gmail.com
